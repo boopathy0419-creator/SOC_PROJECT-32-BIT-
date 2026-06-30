@@ -1,5 +1,3 @@
-# SOC_PROJECT-32-BIT-
-32- BIT  processor using system verilog HDL
 # NanoCore 16 - Instruction ROM
 
 ## Overview
@@ -141,7 +139,7 @@ vvp rom
 
 ## Author
 
-**Your Name**
+**E BOOPATHY**
 
 NanoCore 16 Processor Project
 
